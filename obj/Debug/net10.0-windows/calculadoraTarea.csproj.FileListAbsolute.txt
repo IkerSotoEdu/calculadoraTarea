@@ -1,0 +1,14 @@
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\bin\Debug\net10.0-windows\calculadoraTarea.exe
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\bin\Debug\net10.0-windows\calculadoraTarea.deps.json
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\bin\Debug\net10.0-windows\calculadoraTarea.runtimeconfig.json
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\bin\Debug\net10.0-windows\calculadoraTarea.dll
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\bin\Debug\net10.0-windows\calculadoraTarea.pdb
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\obj\Debug\net10.0-windows\calculadoraTarea.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\obj\Debug\net10.0-windows\calculadoraTarea.AssemblyInfoInputs.cache
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\obj\Debug\net10.0-windows\calculadoraTarea.AssemblyInfo.cs
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\obj\Debug\net10.0-windows\calculadoraTarea.csproj.CoreCompileInputs.cache
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\obj\Debug\net10.0-windows\calculadoraTarea.dll
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\obj\Debug\net10.0-windows\refint\calculadoraTarea.dll
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\obj\Debug\net10.0-windows\calculadoraTarea.pdb
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\obj\Debug\net10.0-windows\calculadoraTarea.genruntimeconfig.cache
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\calculadoraTarea\obj\Debug\net10.0-windows\ref\calculadoraTarea.dll
